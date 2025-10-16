@@ -3,5 +3,5 @@ Repository per tutorato di Ingegneria del Software.
 
 Per clonare questo branch:
 ```bash
-git clone --single-branch --branch solution https://github.com/nicopellegrinelli/EsercitazioniIdS
+git clone --single-branch --branch solution https://github.com/nicopellegrinelli/EsercitazioniIdS-public
 ```
