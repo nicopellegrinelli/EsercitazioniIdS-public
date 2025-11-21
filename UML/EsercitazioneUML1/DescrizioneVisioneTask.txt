@@ -1,0 +1,26 @@
+ • Nome
+ 	Visualizzazione di un task
+ • Breve descrizione
+ 	L'utente visualizza le informazioni riguardanti un task relativo ad un corso
+ • Pre-condizioni
+ 	L'utente è coinvolto nel corso
+ • Post-condizioni
+ 	L'utente ha visualizzato tutte le informazioni del task, in funzione del suo ruolo (studente, professore, amministratore)
+ • Situazioni di errore
+ 	L'utente seleziona un corso in cui non è coinvolto
+ • Stato del sistema nel caso in cui ci sia un errore
+ 	Il sistema ritorna alla pagina iniziale
+ • Attori
+ 	Utente
+ • Trigger
+ 	L'utente richiede di visualizzare le informazioni riguardanti un corso e poi quelle relative ad un task
+ • Processo standard
+ 	1. L'utente fa il login nel sistema
+ 	2. Il sistema verifica il livello di autorizzazione dell'utente (studente, professore, amministratore)
+ 	3. L'utente seleziona l'opzione "Seleziona Corso"
+ 	4. L'utente seleziona il corso da visualizzare
+ 	5. L'utente selezione l'opzione "Visualizza Task"
+ 	6. L'utente seleziona il task da visualizzare
+ 	7. Il sistema mostra le informazioni del task in funzione del livello di autorizzazione dell'utente
+ • Processo alternativo
+ 	5. Il sistema notifica all'utente che non è coinvolto in quel corso e ritorna alla pagina iniziale
