@@ -1,4 +1,5 @@
 .metadata/
+.sonarlint/
 
 # Compiled class file
 *.class
