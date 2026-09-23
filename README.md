@@ -1,5 +1,5 @@
-# Esercitazioni Ingegneria del Software a.a. 2026/2027
-Repository per tutoratio di Ingegneria del Software.
+# Tutorati Ingegneria del Software a.a. 2026/2027
+Repository per tutorati di Ingegneria del Software.
 
 Per clonare questa repository:
 ```bash
