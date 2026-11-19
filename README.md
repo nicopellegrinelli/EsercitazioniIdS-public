@@ -1,4 +1,4 @@
-# Esercitazioni Ingegneria del Software a.a. 2025/2026
+# Esercitazioni Ingegneria del Software a.a. 2026/2027
 Repository per tutoratio di Ingegneria del Software.
 
 Per clonare questa repository:
